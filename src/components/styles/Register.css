@@ -1,0 +1,20 @@
+/* Wrapper for the password input and eye icon button */
+.password-input-wrapper {
+  position: relative;
+}
+
+/* Style for the password input */
+.password-input {
+  padding-right: 40px; /* To make space for the eye icon button on the right */
+}
+
+/* Style for the eye icon button */
+.eye-icon-button {
+  position: absolute;
+  top: 100%;
+  right: 10px;
+  transform: translateY(-190%);
+  border: none;
+  background: none;
+  cursor: pointer;
+}

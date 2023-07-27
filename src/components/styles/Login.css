@@ -1,0 +1,36 @@
+.main-container {
+  margin-top: 50px;
+}
+
+.hr-strike {
+  color: #047a67;
+  display: block;
+  text-align: center;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+/* .hr-strike > span {
+  position: relative;
+  display: inline-block;
+}
+
+.hr-strike > span:before,
+.hr-strike > span:after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  width: 50px;
+  height: 1px;
+  background: #636161;
+}
+
+.hr-strike > span:before {
+  right: 30%;
+  margin-right: 10px;
+}
+
+.hr-strike > span:after {
+  left: 30%;
+  margin-left: 10px;
+} */
